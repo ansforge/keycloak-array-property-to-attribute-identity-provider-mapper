@@ -57,7 +57,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>keycloak-custom-identity-provider-mapper-${project.version}</finalName>
+        <finalName>keycloak-array-property-to-attribute-identity-provider-mapper-${project.version}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
