@@ -1,0 +1,32 @@
+changelog:
+  categories:
+    - title: Nouveautés
+      labels:
+        - feat
+        - feature
+        - enhancement
+    - title: Corrections de bugs
+      labels:
+        - bug
+        - fix
+    - title: Améliorations techniques
+      labels:
+        - refactor
+        - chore
+        - ci
+    - title: Documentation
+      labels:
+        - doc
+        - docs
+        - document
+        - documents
+        - documentation
+    - title: Autres changements
+      labels:
+        - '*'
+
+  exclude:
+    labels:
+      - skip-changelog
+    authors:
+      - dependabot[bot]
