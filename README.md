@@ -17,11 +17,11 @@ Example :
       "propB": "value22",
       "propC": "value23",
       "propD": "value24"
-    },
+    }
   ]
 }
 
-Key = objects.propB
+Key = objects[].propB
 Value = [ "value12", "value21" ]
 ```
 
